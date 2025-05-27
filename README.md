@@ -8,7 +8,5 @@ We won "Best Insight" Award out of 65+ Teams
 
 Here is our video submission for the 2024 OSU Datafest:
 
-<video width="1920" height="1080" controls>
-  <source src="GMT20240407-153706_Recording_1920x1080.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video]](https://youtu.be/wAZeec8kuXA?si=wmpZzqQiaXn_UuuB)
+
